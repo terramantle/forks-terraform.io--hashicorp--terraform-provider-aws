@@ -1,6 +1,6 @@
 module github.com/hashicorp/terraform-provider-aws/tools
 
-go 1.26.8
+go 1.26.9
 
 require (
 	github.com/YakDriver/copyplop v0.10.0
@@ -8,7 +8,7 @@ require (
 	github.com/golangci/golangci-lint/v2 v2.12.2
 	github.com/golangci/misspell v0.8.0
 	github.com/hashicorp/go-changelog v0.0.0-20250127101332-effe3832fb0b
-	github.com/katbyte/tctest v1.3.4
+	github.com/katbyte/tctest v1.3.5
 	github.com/katbyte/terrafmt v1.0.1
 	github.com/pavius/impi v0.0.3
 	github.com/rhysd/actionlint v1.7.12
